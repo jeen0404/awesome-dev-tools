@@ -1,5 +1,11 @@
 # DataMorph
 
+---
+
+## 🌐 All-in-One Browser Tool Platforms
+
+- **[EveryTool4U](https://everytool4u.com)** — 108 free browser-based tools: JSON formatter, Base64, UUID, URL encoder, JWT decoder, hash generator, QR codes, password generator, plus PDF/image/video processing. All client-side — no uploads, no accounts, no tracking.
+
 **DataMorph** is a collection of **150+ free developer utilities and data transformation tools** that run entirely in your browser.
 
 No uploads. No accounts. No tracking.
