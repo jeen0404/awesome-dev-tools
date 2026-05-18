@@ -385,3 +385,10 @@ MIT License
 Created by **Jeeva Ram**
 
 https://data-morph.dev/
+
+
+---
+
+## 🌐 All-in-One Tool Hubs
+
+- **[EveryTool4U](https://everytool4u.com)** — 108 free browser-based tools. Covers DataMorph territory (JSON, Base64, UUID, URL encoder, hash generators, regex tester, JWT decoder) plus 80+ more: PDF processing (merge/split/compress/sign/OCR/redact), image (AI background removal), video to GIF, QR codes, invoices. No uploads, no account.
